@@ -8,7 +8,7 @@ Add this plugin to your project:
 
 ```bash
 # Install using npm
-npm install --save-dev @mellambias/tailwind-column-rule
+npm install --save-dev tailwind-column-rule
 ```
 
 ### Add the plugin to file config
@@ -17,7 +17,7 @@ npm install --save-dev @mellambias/tailwind-column-rule
 // tailwind.config.js
 {
   plugins: [
-    require('@mellambias/tailwind-column-rule'),
+    require('tailwind-column-rule'),
   ],
 }
 ```
@@ -70,7 +70,7 @@ By default, this plugin provides five border-width utilities. You change, add, o
         10: "10px",
     },
   plugins: [
-    require('@mellambias/tailwind-column-rule'),
+    require('tailwind-column-rule'),
   ],
 }
 ```
@@ -132,7 +132,7 @@ By default, this plugin provides five border-width utilities. You change, add, o
         "groove": "groove",
     },
   plugins: [
-    require('@mellambias/tailwind-column-rule'),
+    require('tailwind-column-rule'),
   ],
 }
 ```
@@ -188,7 +188,7 @@ Or the plugin **theme.ruleColor**
         red: "red",
       },
   plugins: [
-    require('@mellambias/tailwind-column-rule'),
+    require('tailwind-column-rule'),
   ],
 }
 ```

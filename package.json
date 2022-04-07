@@ -1,6 +1,6 @@
 {
   "name": "tailwind-column-rule",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "plugin for tailwind column-rule",
   "main": "index.js",
   "scripts": {
