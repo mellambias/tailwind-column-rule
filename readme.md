@@ -11,7 +11,7 @@ Add this plugin to your project:
 npm install --save-dev @mellambias/tailwind-column-rule
 ```
 
-###Add the plugin to file config
+### Add the plugin to file config
 
 ```js
 // tailwind.config.js
