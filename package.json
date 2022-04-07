@@ -1,5 +1,5 @@
 {
-  "name": "@mellambias/tailwind-column-rule",
+  "name": "tailwind-column-rule",
   "version": "1.0.0",
   "description": "plugin for tailwind column-rule",
   "main": "index.js",
@@ -11,6 +11,10 @@
     "css",
     "column-rule"
   ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mellambias/tailwind-column-rule"
+  },
   "author": "Miguel E. Llambias",
   "license": "ISC",
   "devDependencies": {
